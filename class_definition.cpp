@@ -21,7 +21,10 @@ playing_space::~playing_space() {                   // deconstructor
     delete space;
 }
 void playing_space::drop(block &BLK) {
+    ////////////////////////////////
     
+    
+    /////////////////////////////////////////
 }
 
 bool playing_space::delete_check(int read_row) {
